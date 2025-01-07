@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "632566371320",
+    "project_id": "salon-symphony-app",
+    "storage_bucket": "salon-symphony-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632566371320:android:6349a8a78e65c99bac7c0d",
+        "android_client_info": {
+          "package_name": "com.app.salonsymphony"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632566371320-1icsh8l74fmqltkefq5vpiagp42mdqv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfcsQqxhI7ROhfW-MjxvDaeIhwb0F-Cos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632566371320-1icsh8l74fmqltkefq5vpiagp42mdqv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632566371320:android:e96c215615a02ae0ac7c0d",
+        "android_client_info": {
+          "package_name": "com.salonsymphony.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632566371320-1icsh8l74fmqltkefq5vpiagp42mdqv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfcsQqxhI7ROhfW-MjxvDaeIhwb0F-Cos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632566371320-1icsh8l74fmqltkefq5vpiagp42mdqv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

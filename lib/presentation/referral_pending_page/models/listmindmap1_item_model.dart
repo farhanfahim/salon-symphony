@@ -1,0 +1,1 @@
+class Listmindmap1ItemModel { }
